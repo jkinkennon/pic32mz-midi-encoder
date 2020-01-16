@@ -9,4 +9,6 @@ pic32mz2048efh144 MCU module from MikroElectronica - MIKROE-2714 - on motherboar
 ICSP port,
 USB serial console port,
 USB-MIDI output,
-Power input - 12vdc nominal,
+Power input - 12vdc nominal
+
+A PCB is available for this project. 
